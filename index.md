@@ -2,7 +2,7 @@
 
 Selamat Datang di Perpustakaan Digital
 
-Berikut ini adalah Koleksu yang dimiliki:
+Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi
 1. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2017)
