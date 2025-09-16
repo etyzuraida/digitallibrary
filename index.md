@@ -17,7 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Pride and Prejudice](ebook/Pride and Prejudice.pdf) - Jane Austen (2022)
 11. [Ringkasan Materi VR](ebook/Ringkasan Materi VR.pdf) - Ety Zuraida (2025)
 
-[Halaman 1](https://etyzuraida.github.io/digitallibrary/webti/halaman1.html)
+## Halaman 1(https://etyzuraida.github.io/digitallibrary/webti/halaman1.html)
    
 ---
 
