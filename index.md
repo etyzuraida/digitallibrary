@@ -1,4 +1,4 @@
-# 📚 Digital Library
+`# 📚 Digital Library
 
 Selamat Datang di Perpustakaan Digital
 
@@ -18,6 +18,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Ringkasan Materi VR](ebook/Ringkasan Materi VR.pdf) - Ety Zuraida (2025)
 
 ---
-[Halaman 1](https://etyzuraida.github.io/digitallibrary/webti/halaman1.html)
+<a herf="https://etyzuraida.github.io/digitallibrary/webti/halaman1.html">Halaman 1</a>
    
 *Powered by GitHub Pages*
